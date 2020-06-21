@@ -1,7 +1,6 @@
 ##############################################################################
 ## Final Project
 ## Authors: "Nimisha Goel & Saurabh Gupta"
-## TODO: Add description : Why this data set, and process of the whole project
 ## Description: 
 ##  Exploratory analysis of birthwt dataset
 ##  Make plots to summarize some parameters of dataset with birthwt.
